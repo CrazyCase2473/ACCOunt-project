@@ -1,0 +1,28 @@
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\bin\Debug\net9.0\CAPSTONE PROJECTSS.exe
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\bin\Debug\net9.0\CAPSTONE PROJECTSS.deps.json
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\bin\Debug\net9.0\CAPSTONE PROJECTSS.runtimeconfig.json
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\bin\Debug\net9.0\CAPSTONE PROJECTSS.dll
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\bin\Debug\net9.0\CAPSTONE PROJECTSS.pdb
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\obj\Debug\net9.0\CAPSTONE PROJECTSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\obj\Debug\net9.0\CAPSTONE PROJECTSS.AssemblyInfoInputs.cache
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\obj\Debug\net9.0\CAPSTONE PROJECTSS.AssemblyInfo.cs
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\obj\Debug\net9.0\CAPSTONE PROJECTSS.csproj.CoreCompileInputs.cache
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\obj\Debug\net9.0\CAPSTONE PROJECTSS.dll
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\obj\Debug\net9.0\refint\CAPSTONE PROJECTSS.dll
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\obj\Debug\net9.0\CAPSTONE PROJECTSS.pdb
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\obj\Debug\net9.0\CAPSTONE PROJECTSS.genruntimeconfig.cache
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\obj\Debug\net9.0\ref\CAPSTONE PROJECTSS.dll
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\bin\Debug\net9.0\CAPSTONE PROJECTSS.exe
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\bin\Debug\net9.0\CAPSTONE PROJECTSS.deps.json
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\bin\Debug\net9.0\CAPSTONE PROJECTSS.runtimeconfig.json
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\bin\Debug\net9.0\CAPSTONE PROJECTSS.dll
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\bin\Debug\net9.0\CAPSTONE PROJECTSS.pdb
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\obj\Debug\net9.0\CAPSTONE PROJECTSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\obj\Debug\net9.0\CAPSTONE PROJECTSS.AssemblyInfoInputs.cache
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\obj\Debug\net9.0\CAPSTONE PROJECTSS.AssemblyInfo.cs
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\obj\Debug\net9.0\CAPSTONE PROJECTSS.csproj.CoreCompileInputs.cache
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\obj\Debug\net9.0\CAPSTONE PROJECTSS.dll
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\obj\Debug\net9.0\refint\CAPSTONE PROJECTSS.dll
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\obj\Debug\net9.0\CAPSTONE PROJECTSS.pdb
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\obj\Debug\net9.0\CAPSTONE PROJECTSS.genruntimeconfig.cache
+C:\Users\dm1101224\Desktop\CAPSTONE PROJECTSS\ACCOunt project\obj\Debug\net9.0\ref\CAPSTONE PROJECTSS.dll
