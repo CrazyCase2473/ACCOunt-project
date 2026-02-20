@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f9j64dxbJ08=",
+  "dgSpecHash": "z86Rrz7qpxg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dm1101224\\Desktop\\CAPSTONE PROJECTSS\\ACCOunt project\\CAPSTONE PROJECTSS.csproj",
+  "projectFilePath": "C:\\Users\\dm1101224\\Desktop\\CAPSTONE PROJECTSS\\account project h ome\\ACCOunt-project\\CAPSTONE PROJECTSS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dm1101224\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.12\\microsoft.netcore.app.ref.9.0.12.nupkg.sha512",
     "C:\\Users\\dm1101224\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.12\\microsoft.windowsdesktop.app.ref.9.0.12.nupkg.sha512",

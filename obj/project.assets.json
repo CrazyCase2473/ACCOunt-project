@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dm1101224\\Desktop\\CAPSTONE PROJECTSS\\ACCOunt project\\CAPSTONE PROJECTSS.csproj",
+      "projectUniqueName": "C:\\Users\\dm1101224\\Desktop\\CAPSTONE PROJECTSS\\account project h ome\\ACCOunt-project\\CAPSTONE PROJECTSS.csproj",
       "projectName": "CAPSTONE PROJECTSS",
-      "projectPath": "C:\\Users\\dm1101224\\Desktop\\CAPSTONE PROJECTSS\\ACCOunt project\\CAPSTONE PROJECTSS.csproj",
+      "projectPath": "C:\\Users\\dm1101224\\Desktop\\CAPSTONE PROJECTSS\\account project h ome\\ACCOunt-project\\CAPSTONE PROJECTSS.csproj",
       "packagesPath": "C:\\Users\\dm1101224\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dm1101224\\Desktop\\CAPSTONE PROJECTSS\\ACCOunt project\\obj\\",
+      "outputPath": "C:\\Users\\dm1101224\\Desktop\\CAPSTONE PROJECTSS\\account project h ome\\ACCOunt-project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
