@@ -22,6 +22,7 @@ class Account
     public void show()
     {
         Console.WriteLine("Owner: " + owner + ", Balance: " + balance + " hi");
+        Console.WriteLine("3 commit");
     }
 
     public void deposit(double amount)
